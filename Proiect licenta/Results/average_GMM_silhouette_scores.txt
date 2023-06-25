@@ -1,0 +1,10 @@
+Driver A, Avg. Silhouette Score: 0.37
+Driver B, Avg. Silhouette Score: 0.40
+Driver C, Avg. Silhouette Score: 0.30
+Driver D, Avg. Silhouette Score: 0.51
+Driver E, Avg. Silhouette Score: 0.39
+Driver F, Avg. Silhouette Score: 0.48
+Driver G, Avg. Silhouette Score: 0.54
+Driver H, Avg. Silhouette Score: 0.32
+Driver I, Avg. Silhouette Score: 0.44
+Driver J, Avg. Silhouette Score: 0.22
